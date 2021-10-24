@@ -17,7 +17,7 @@ body {
 }
 
 main {
-  background: url(images/Mobile.png) no-repeat center/cover;
+  background: url(images/Mobile.svg) no-repeat center/cover;
   width: 100vw;
   height: 100vh;
   min-height: 812px;
